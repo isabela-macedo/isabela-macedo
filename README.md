@@ -4,7 +4,7 @@ Sou uma aluna e entusiasta apaixonada por tecnologia. 👩‍💻
 
 Estudante de Análise e Desenvolvimento de Sistemas pela Fatec de Lins.
 
-Pronome:ela/dela 
+
 
 <div>
   <a href="https://github.com/isabela-macedo">
