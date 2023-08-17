@@ -15,7 +15,7 @@
 ##
 
   <a href="https://www.linkedin.com/in/isabelamacedodesouza" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-%23007785?style-for-the-badge&logo=linkedIn&logoColor=white" target="_blank"></a>
-<a href="mailto:seuemail@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-OUTLOOK-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Email" style="width: 110px;"></a>
+<a href="mailto:isabela_macedo.sp@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-OUTLOOK-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Email" style="width: 110px;"></a>
 
 
 
